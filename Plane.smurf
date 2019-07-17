@@ -1,0 +1,9 @@
+# main SMURF file of model "Plane"
+# created with Phobos 0.7 - https://github.com/dfki-ric/phobos
+
+SMURF version: 0.7
+modelname: Plane
+date: '20190717_17:20'
+files:
+- ../urdf/Plane.urdf
+- Plane_geometry.yml
