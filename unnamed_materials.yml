@@ -1,0 +1,18 @@
+#materials definition SMURF file for "unnamed", 20190718_16:20
+
+materials:
+- ambientColor:
+    b: 0.64
+    g: 0.64
+    r: 0.64
+  diffuseColor:
+    b: 0.64
+    g: 0.64
+    r: 0.64
+  name: Material.001
+  shininess: 25.0
+  specularColor:
+    b: 0.06127
+    g: 0.0531
+    r: 0.5
+  users: 1
