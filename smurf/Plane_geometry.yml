@@ -1,6 +1,0 @@
-#geometry definition SMURF file for "Plane", 20190717_17:20
-
-link:
-- name: Plane
-  type: mesh
-
